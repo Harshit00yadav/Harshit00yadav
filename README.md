@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit00yadav" alt="harshit00yadav" /></a> </p>
 
-- 🔭 I’m currently working on **my skills**
+- 🔭 I’m currently working on **a simple game which i'm willing to launch in about 2 years**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C++ and java**
 
 - 💬 Ask me about **Python**
 
