@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
-<h3 align="center">A passionate beginner developer from India</h3>
+# Harshit Yadav
+**`(Developer/Student)`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit00yadav&label=Profile%20views&color=0e75b6&style=flat" alt="harshit00yadav" /> </p>
+I am a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. from India. A small indi-game-developer by hobby
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit00yadav" alt="harshit00yadav" /></a> </p>
+<p align="left">
+  <a href="https://github.com/Harshit00yadav?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Harshit00yadav?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/Harshit00yadav?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Harshit00yadav?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>  
+</p>
 
-- 🔭 I’m currently working on **a simple game which i'm willing to launch in about 2 years**
+---
 
-- 🌱 I’m currently learning **C++ and java**
+### 🧰 Languages and Tools
 
-- 💬 Ask me about **Python**
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br />
 
-- 📫 How to reach me **hash00usr@gmail.com**
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/hash00usr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hash00usr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hash00usr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hash00usr" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/hash00usr" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hash00usr" height="30" width="40" />
+  </a>
+
+  <a href="https://www.hackerrank.com/hash00usr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hash00usr" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3>💻 GitHub Profile Stats</h3>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Harshit00yadav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Harshit00yadav&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Harshit00yadav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Harshit00yadav&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Harshit00yadav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Harshit00yadav&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit00yadav&show_icons=true&locale=en&layout=compact" alt="harshit00yadav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit00yadav&show_icons=true&locale=en" alt="harshit00yadav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit00yadav&" alt="harshit00yadav" /></p>
+<br/>
