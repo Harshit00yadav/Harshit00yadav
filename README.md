@@ -3,7 +3,23 @@
 
 I am a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. from India. A small indi-game-developer by hobby
 
-<p align="left">
+<p align="center">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/harshit-yadav-5683a6258/" alt="linkedin" title="linkedin profile">
+    <img width="32px" src="https://github.com/Harshit00yadav/Harshit00yadav/assets/98582750/ef192ead-29d5-41a7-8181-62b4245cb9e1"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://leetcode.com/hash00usr/" alt="leetcode" title="leetcode profile">
+    <img width="32px" src="https://i.imgur.com/172EExS.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.codechef.com/users/hash00usr" alt="codechef" title="codechef profile">
+    <img width="32px" height="32px" src="https://github.com/Harshit00yadav/Harshit00yadav/assets/98582750/28ff8f1f-8e30-437b-9ba0-8b82228a1505"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<p align="center">
   <a href="https://github.com/Harshit00yadav?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Harshit00yadav?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
@@ -28,17 +44,6 @@ I am a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. fro
 <br />
 
 #
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.codechef.com/users/hash00usr" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hash00usr" height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/hash00usr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hash00usr" height="30" width="40" />
-  </a>
-</p>
 
 <h3>💻 GitHub Profile Stats</h3>
   
