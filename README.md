@@ -1,7 +1,10 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Wellcome%20Back!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%27s%20start%20exploring%20my%20project&descAlignY=55&descAlign=55" />
 
 <p align="center">
-  <h2 align="center">hi, I am Harshit Yadav</h2>
+  <h2 align="center">
+    hi, I am Harshit Yadav 
+    <img width="96px" height="69px" style="position:relative;top:55px;" src="https://github.com/Harshit00yadav/Harshit00yadav/assets/98582750/580f01d0-5bcd-4cd7-a2d3-75789f2a6b44"/>
+  </h2>
   <br/>
   `(Developer/Student)`
   I am a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. from India. A small indi-game-developer by hobby. Besides that i find frontend development very fascinating.
