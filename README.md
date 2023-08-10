@@ -1,7 +1,11 @@
-# Harshit Yadav
-**`(Developer/Student)`**
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Wellcome%20Back!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%27s%20start%20exploring%20my%20project&descAlignY=55&descAlign=55" />
 
-I am a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. from India. A small indi-game-developer by hobby
+<p align="center">
+  <h2 align="center">hi, I am Harshit Yadav</h2>
+  <br/>
+  `(Developer/Student)`
+  I am a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. from India. A small indi-game-developer by hobby. Besides that i find frontend development very fascinating.
+</p>
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -24,8 +28,9 @@ I am a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. fro
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Harshit00yadav?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   <a href="https://github.com/Harshit00yadav?tab=followers">
-    <img alt="followers" title="github followers" src="https://img.shields.io/github/followers/Harshit00yadav?style=for-the-badge&logo=github&labelColor=purple&color=blue"/>
-  </a>  
+    <img alt="followers" title="github followers" src="https://custom-icon-badges.demolab.com/github/followers/Harshit00yadav?logo=person-add&style=for-the-badge&logoColor=white&labelColor=purple&color=blue"/>
+  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=for-the-badge&labelColor=red&logo=fire&logoColor=fff&color=orange&label=Streak&query=%24.currentStreak.length&suffix=%20d&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DHarshit00yadav%26type%3Djson"/>
 </p>
 
 ---
