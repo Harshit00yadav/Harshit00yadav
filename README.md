@@ -2,7 +2,8 @@
 
 <p align="center">
   <h2 align="center">
-    hi, I am Harshit Yadav 
+    hi, I am  
+    <img style="position:relative;top:20px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=220&lines=Harshit+Yadav" alt="Typing SVG" />
     <img width="96px" height="69px" style="position:relative;top:55px;" src="https://github.com/Harshit00yadav/Harshit00yadav/assets/98582750/580f01d0-5bcd-4cd7-a2d3-75789f2a6b44"/>
   </h2>
   <br/>
