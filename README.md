@@ -2,7 +2,7 @@
 
 <p align="center">
   <h2 align="center">
-    <img width="60px" height="90px" src="https://i.giphy.com/uLI7LyMaFMptsxsMRf.webp"/>hi, I am Harshit Yadav
+    <img width="55px" height="95px" src="https://github.com/user-attachments/assets/ecef5ba9-660b-4454-a140-df582f624820"/>Hi, Harshit Yadav here
   </h2>
   <br/>
   I'm a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. from India. A small indi-game-developer by hobby. Besides that i find frontend development very fascinating.
