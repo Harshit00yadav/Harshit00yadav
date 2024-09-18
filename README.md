@@ -2,15 +2,11 @@
 
 <p align="center">
   <h2 align="center">
-    hi, I am  
-    <img style="position:relative;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=220&lines=Harshit+Yadav" alt="Typing SVG" />
-    <img width="96px" height="69px" style="position:relative;top:55px;" src="https://github.com/Harshit00yadav/Harshit00yadav/assets/98582750/580f01d0-5bcd-4cd7-a2d3-75789f2a6b44"/>
+    <img width="60px" height="90px" src="https://i.giphy.com/uLI7LyMaFMptsxsMRf.webp"/>hi, I am Harshit Yadav
   </h2>
   <br/>
-  `(Developer/Student)`
-  I am a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. from India. A small indi-game-developer by hobby. Besides that i find frontend development very fascinating.
+  I'm a B.Tech CSE student at Technocrats Institute of Technology Bhopal M.P. from India. A small indi-game-developer by hobby. Besides that i find frontend development very fascinating.
 </p>
-
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/harshit-yadav-5683a6258/" alt="linkedin" title="linkedin profile">
